@@ -18,3 +18,21 @@ import { AppComponent } from './app.component';
 export class AppModule { }
 
 
+// import { AppRoutingModule } from './app-routing.module';
+// import { AppComponent } from './app.component';
+// import { MastheadComponent } from './components/masthead/masthead.component';
+// import { DashboardComponent } from './component/dashboard/dashboard.component';
+// import { NavigationComponent } from './component/navigation/navigation.component';
+// import { SupportComponent } from './component/support/support.component';
+
+// @NgModule({
+//   declarations: [
+//     AppComponent
+//     //AppComponent,
+//     MastheadComponent,
+//     DashboardComponent,
+//     NavigationComponent,
+//     SupportComponent
+//   ],
+//   imports: [
+//     BrowserModule,
